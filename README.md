@@ -60,4 +60,4 @@ streamlit run app.py
 - 📊 **Advanced Analytics & Data Visualization**  
 
 ## **Contributors** 💡  
-👨‍💻 Your Name - **Developer & Maintainer**  
+👨‍💻 c0d3l0v3r - **Developer & Maintainer**  
