@@ -5,10 +5,15 @@ Overview
 EchoPay is a database application and viewer built using Streamlit, designed to seamlessly interact with a local PostgreSQL database. Developed during the INFRONIX 2025 Hackathon, the application facilitates real-time data access and RFID-based transactions, ensuring a smooth and efficient payment system.
 
 Features ✨
+
 ✅ Admin Panel – Manage users, view logs, and monitor database activity.
+
 ✅ Consumer Interface – Securely access and interact with relevant data.
+
 ✅ Local PostgreSQL Integration – Optimized for local network deployment.
+
 ✅ Streamlit-Powered UI – Intuitive and responsive web-based interface.
+
 ✅ RFID Compatibility – Ensures seamless transaction processing.
 
 Installation & Setup 🚀
