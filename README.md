@@ -16,7 +16,7 @@ EchoPay is a **database application and viewer** built using **Streamlit**, desi
 ### **Prerequisites**  
 Ensure you have the following installed:  
 - **Python 3.8+**  
-- **PostgreSQL**  
+- **sqlLite && DB Browser (if you want to see the data except the viewer)**  
 - **Streamlit**  
 
 ### **Installation Steps**  
